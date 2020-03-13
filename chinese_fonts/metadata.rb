@@ -1,0 +1,6 @@
+name             'chinese_fonts'
+maintainer       'Chsien Lee'
+maintainer_email 'chsienlee@gmail.com'
+license          'All rights reserved'
+description      'Configures chinese fonts'
+version          '0.1.1'

@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="13b35262-b88f-415f-b131-aed1b7c02c33" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependencies/attributes/default.rb" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/attributes/default.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependencies/recipes/default.rb" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/recipes/default.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opsworks_bundler/recipes/default.rb" beforeDir="false" afterPath="$PROJECT_DIR$/opsworks_bundler/recipes/default.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opsworks_commons/libraries/monkey_patch_chefgem_resource.rb" beforeDir="false" afterPath="$PROJECT_DIR$/opsworks_commons/libraries/monkey_patch_chefgem_resource.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opsworks_commons/libraries/monkey_patch_rubygems_provider.rb" beforeDir="false" afterPath="$PROJECT_DIR$/opsworks_commons/libraries/monkey_patch_rubygems_provider.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584209472271</updated>
-      <workItem from="1584209473764" duration="5384000" />
+      <workItem from="1584209473764" duration="6233000" />
     </task>
     <servers />
   </component>
@@ -45,10 +40,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="599" y="258" width="1215" height="586" key="find.popup" timestamp="1584343061663">
+    <state x="599" y="258" width="1215" height="586" key="find.popup" timestamp="1584343129899">
       <screen x="0" y="23" width="2560" height="1057" />
     </state>
     <state x="337" y="218" width="683" height="486" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1584209774016" />
-    <state x="599" y="258" width="1215" height="586" key="find.popup/0.23.2560.1057@0.23.2560.1057" timestamp="1584343061663" />
+    <state x="599" y="258" width="1215" height="586" key="find.popup/0.23.2560.1057@0.23.2560.1057" timestamp="1584343129899" />
   </component>
 </project>

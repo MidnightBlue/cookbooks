@@ -8,4 +8,4 @@
 
 # The following shows how to override the bundler version:
 #
-normal[:opsworks_bundler][:version] = '2.0.2'
+normal[:opsworks_bundler][:version] = '1.17.2'

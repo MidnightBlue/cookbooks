@@ -47,4 +47,4 @@ else
 end
 
 include_recipe 'opsworks_rubygems'
-include_recipe 'opsworks_bundler'
+include_recipe 'opsworks_bundler2'

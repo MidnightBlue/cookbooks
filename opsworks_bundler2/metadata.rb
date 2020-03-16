@@ -1,4 +1,4 @@
-name        "opsworks_bundler"
+name        "opsworks_bundler2"
 description "Installs Bundler"
 maintainer  "AWS OpsWorks"
 license     "Apache 2.0"
